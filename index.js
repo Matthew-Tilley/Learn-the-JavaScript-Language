@@ -1,5 +1,38 @@
 
 
+// Section 3.1 Objects, Arrays and More 
+
+// {};  This is technically an "object" in JavaScript.
+
+// var emptyObject = {};
+
+// console.log(emptyObject);
+// A console.log of this empty object returns back just the 
+// inherent attributes thereof.  
+
+/* var notAnEmptyObject = 
+{
+    "LABLEL" : "VALUE"
+};
+
+console.log(notAnEmptyObject);
+This gives back contents of object / key - value pair 
+ */
+
+
+//  var anotherObject = 
+//  {
+//      "value1" : "thiss",  /* SPELLED CORRECTLY REPRESENTS KEYWORD HAD TO CHANGE */
+//      "value2" : "that",
+//      "value3" : "the",
+//      "value4" : "other",
+//      "value5" : "thing" 
+//  };
+
+//  console.log(anotherObject);
+
+
+
 
 // Section 2.4 BOOLEANS
 /* var mylocation = "Saint Louis", myOtherLocation = "Mars";
