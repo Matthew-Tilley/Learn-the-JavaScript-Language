@@ -1,6 +1,14 @@
 
 
 
+// Section 2.4 BOOLEANS
+/* var mylocation = "Saint Louis", myOtherLocation = "Mars";
+
+console.log(mylocation);
+console.log(myOtherLocation);
+
+console.log(mylocation === mylocation);
+console.log(mylocation === myOtherLocation); */
 
 
 
@@ -36,7 +44,7 @@ escape!!! */
 // properly!
 
 
-console.log("This is my string".length);
+// console.log("This is my string".length);
 
 
 
