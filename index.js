@@ -1,3 +1,5 @@
+// Section 3.7 Comments (already knew this)
+
 // Section 3.6 Whitespace (already knew this)
 
 
