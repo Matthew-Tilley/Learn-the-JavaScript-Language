@@ -1,4 +1,24 @@
 
+// Section 3.2 Manipulating objects 
+
+var animal = {};
+
+animal.flurp = "Yipeee!";
+animal.type = "Dog";
+animal.whereItLives = "Trees";
+
+delete animal.flurp;
+
+animal.foo = "Yipyip";
+
+
+console.log(animal);
+
+
+
+
+
+
 
 // Section 3.1 Objects, Arrays and More 
 
