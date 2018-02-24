@@ -1,4 +1,60 @@
-//4.4 Conditionals "if"
+
+
+
+
+
+
+
+// Section 4.7 Type checking
+
+/* var blurp = 12;
+
+console.log(typeof blurp);
+
+blurp = "twelve";
+
+console.log(typeof blurp);
+
+blurp = true;
+console.log(typeof blurp);
+
+blurp = [];
+console.log(typeof blurp);
+
+console.log(typeof thing === "object" && thing.hasOwneProperty("length"));
+
+console.log(typeof NaN);
+
+console.log(typeof null);
+ */
+
+//THIS STUFF (ABOVE) IS GOOFY...
+
+// console.log(23409%4);
+
+//console.log( (1272 / 4 ) && (23400 % 2 ) === (23400 % 2) === (23400/2) || (1272%4)   );
+
+/* var x;
+
+if (x)
+{
+    console.log(x);
+}
+
+else
+{
+    console.log("nope");
+}; */
+
+
+// var x = Math.sqrt(36);
+
+// console.log(x%2 === 0 ? "yes" : "no"); 
+
+
+
+
+//4.4 Conditionals "if" & 4.5
 
 // var answer = window.confirm("Click OK to get true.  Click cancel to get false.");
 
