@@ -1,3 +1,46 @@
+//4.2 Arithmetic operators
+
+//console.log (5%2);
+
+// i = 0;
+// i = i + 5;
+// console.log(i);
+// console.log(i%3);
+
+// x = 0;
+
+// for (i=0; i < 11; i++)
+// {
+//     console.log(x++);
+// };
+
+
+// x = 1;
+// console.log(x += 4);
+
+/* x = 1;
+console.log( x+= -6);
+console.log(x -- );
+console.log(x -- -6);
+ */
+
+// console.log("cat" + "dog");
+// console.log("cat " + "dog");
+
+/* var c = "cat";
+var d = "dog";
+var a = "and";
+var s = " ";
+
+console.log(c + s + a + s + d );
+
+SAME AS BELOW - ALREADY KNEW THIS, JUST A 
+QUICK REVIEW 
+ */
+
+
+
+
 // 4.1 Equality 
 
 // console.log(1==1);
@@ -11,6 +54,9 @@
 // console.log(1<2);
 //console.log(2 >= 1);
 //console.log(2 >= 1);
+
+/* PRETTY WELL UNDERSTOOD (AND UNDERSTAND)
+THESE / QUICK REVIEW */
 
 
 
