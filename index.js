@@ -1,3 +1,29 @@
+//4.3 Logical operators
+
+var a1 = "monkey";
+var a2 = "bear";
+var a3 = "tiger";
+
+// if (a1 == "monkey" && a2 == "bear")
+// {
+//     console.log("LKAJSDKLJASDKLKLDSJA");
+// }
+
+
+// if (a1 == "dolphin" || a1 == "monkey")
+// {
+//     console.log("Ayup, yup");    
+// };
+
+// console.log(a1 == a1 && a1 == a2);
+
+console.log(a1 != a2 && a2 != a3);
+
+
+
+
+
+
 //4.2 Arithmetic operators
 
 //console.log (5%2);
