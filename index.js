@@ -88,8 +88,24 @@ applied.
  */
 
 
+// SINGLE LINE IF STATEMENTS
+
+/*  var blah = "blurp";
+
+ if (blah === "blurp") console.log("Woot-woot."); */
 
 
+/* var blah = prompt("Please enter something here.");
+
+if (blah === "blurp") console.log("Woot-woot.");
+ */
+
+
+
+ /* TERSE IFS AND TERNARY OPERATOR
+ GOING TO NEED A LOT MORE WORK ON THIS; to my recollection
+ I have never even seen these before!!!
+ */
 
 
 
