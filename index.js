@@ -1,3 +1,11 @@
+// Section 3.8 Regular expressions
+/* Weird.  Sounds like this is a WHOLE different 
+topic in and of itself / will require extensive 
+exploration & study - at a later time 
+Would be helpful to see a practical use case of 
+this.  */
+
+
 // Section 3.7 Comments (already knew this)
 
 // Section 3.6 Whitespace (already knew this)
