@@ -1,3 +1,57 @@
+
+
+
+
+
+
+
+// Section 3.4 Arrays 
+
+// var myArray = [];
+
+// var daysOfWeek = ["Sun", "Mon", "etc"];
+
+/* If you create an OBJECT and print it to the CONSOLE 
+it will automatically put all the key : value pairs 
+into alphabetical order 
+
+With an ARRAY it will KEEP THE ORDER of however your 
+data is originally entered.  (This makes sense, because
+you manipulate data in an array with indexes for each 
+specific item of data contained within the array.) */
+
+
+/* var myArray = 
+[
+    0,1,2,3,4,5,6,7,true,false,true, "flurp", "durp"
+];
+ */
+
+
+/*  var array1 = [];
+
+ console.log(array1);
+
+ array1.push("gobble", "flurp" , "durp");
+
+ console.log(array1);
+
+ array1.pop();
+
+ console.log(array1);
+
+ array1.push("durp");
+
+ console.log(array1);
+
+ console.log(array1.indexOf("durp"));
+ */
+ 
+
+
+
+
+
 // Section 3.3
 
 /* var turkey = {};
