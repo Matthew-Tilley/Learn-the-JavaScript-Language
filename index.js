@@ -1,3 +1,20 @@
+// 4.1 Equality 
+
+// console.log(1==1);
+// console.log(1 != 1);
+
+// console.log(1 === 1);
+// console.log(1 == "1");
+// console.log(1 === "1");
+
+// console.log(1>2);
+// console.log(1<2);
+//console.log(2 >= 1);
+//console.log(2 >= 1);
+
+
+
+
 // Section 3.8 Regular expressions
 /* Weird.  Sounds like this is a WHOLE different 
 topic in and of itself / will require extensive 
