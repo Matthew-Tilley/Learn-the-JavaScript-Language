@@ -1,3 +1,5 @@
+// Section 3.6 Whitespace (already knew this)
+
 
 // Section 3.5 Manipulating arrays 
 
