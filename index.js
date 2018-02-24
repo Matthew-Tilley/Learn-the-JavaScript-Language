@@ -1,20 +1,67 @@
+// Section 3.3
+
+/* var turkey = {};
+
+turkey.genus = "fish";
+turkey.name = "Roger";
+turkey.ostritch = true;
+turkey.isHamSandwich = false;
+
+
+console.log(turkey);
+
+var turkey2 = turkey;
+
+console.log(turkey2);
+
+turkey2.genus = "bear";
+
+console.log(turkey, turkey2); */
+
+/* M/* oral of this story?  If you create a new object and
+set it to another (existing) object, IT WILL POINT TO 
+EXACTLY THE SAME PLACE IN MEMORY.  So in other words, 
+if you change one of the values for turkey2, it will 
+ALSO change it for the ORIGINAL turkey1 as well    */
+
+
+/* turkey2 = {};
+
+console.log(turkey2);
+
+
+turkey2.genus = "fish",
+turkey2.name = "Roger",
+turkey.ostritch = true;
+turkey.isHamSandwich = false;
+
+console.log(turkey2);
+console.log(turkey);
+
+
+REFERENCES CAN (WILL) POINT YOUR DATA TO THE *EXACT SAME PLACE*
+IN MEMORY IF YOU AREN'T CAREFUL...USUALLY AN UNDESIRABLE THING. */
+
+
+
+
+
+
 
 // Section 3.2 Manipulating objects 
 
-var animal = {};
+// var animal = {};
 
-animal.flurp = "Yipeee!";
-animal.type = "Dog";
-animal.whereItLives = "Trees";
+// animal.flurp = "Yipeee!";
+// animal.type = "Dog";
+// animal.whereItLives = "Trees";
 
-delete animal.flurp;
+// delete animal.flurp;
 
-animal.foo = "Yipyip";
-
-
-console.log(animal);
+// animal.foo = "Yipyip";
 
 
+// console.log(animal);
 
 
 
