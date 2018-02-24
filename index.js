@@ -1,8 +1,111 @@
+//4.4 Conditionals "if"
+
+// var answer = window.confirm("Click OK to get true.  Click cancel to get false.");
+
+// if (answer === true)
+// {
+//     console.log("Yippers!");
+// }
+
+// else
+// {
+//     console.log("Blurp!");
+// };
+
+/* OKAY - THIS IS WHY EVEN SIMPLE REVIEW STUFF IS
+SOMETIMES WORTH THE TIME...JUST REALIZED SOMETHING. 
+WITH IF / ELSE STATEMENTS, OBVIOUSLY EVERYTHING 
+*STARTS* WITH THE "IF" PORTION.  ***YOU DO NOT*** PUT 
+A SEMICOLON AT THE END OF ***ANY*** OTHER STATEMENT 
+IN THE INTERIM...UNTIL YOU REACH THE ***ELSE*** STATEMENT.  
+JUST TRIED SOMETHING AND IT WASN'T WORKING...UNTIL THAT 
+DAWNED ON ME!  THAT IS HOW JS KNOWS TO KEEP RUNNING THROUGH 
+ALL THE VARIOUS CONDITIONS BEFORE REACHING THAT POINT
+ */
+
+
+ /* var answer = window.prompt("Please enter yes, no or maybe");
+
+ if (answer === "yes")
+ {
+     console.log("Sounds great");
+ }
+
+ else if (answer === "no")
+ {
+     console.log("Why not?")
+ }
+
+ else
+ {
+    console.log("Lemme know, okay?");
+ };
+ */
+
+// if (answer === false)
+// {
+//     console.log("No thanks!");
+// };
+
+
+// SAME SECTION AS ABOVE - SWITCH STATEMENTS
+
+/* var answer = window.prompt("Please enter yep, nope, or maybe");
+
+switch (answer)
+{
+    case "yes" :
+    console.log("Coolness.")
+    break;
+
+    case "no" :
+    console.log("Whatever.")
+    break;
+
+    case "maybe" :
+    console.log("Ambiguity.")
+    break;
+
+    default :
+    console.log("Gotta know, 'yo!");
+    break;
+} */
+
+
+/* DEFINITELY NEED A *LOT* MORE WORK ON THESE.  JUST NOT AS 
+FAMILIAR WITH THIS CONCEPT AS (FOR EXAMPLE) THE "IF/ELSE" 
+PATTERN OF CONDITIONALS.  
+
+NOT SURE IF I EVER LEARNED ABOUT THE "DEFAULT" BEFORE OR 
+JUST FORGOT ABOUT IT, BUT THIS IS EFFECTIVELY THE SAME AS 
+"ELSE" IN AN IF / ELSE STATEMENT.
+
+VERY IMPORTANT - YOU MUST enter a "break" after each case,
+or the logic will continue to cascade beyond that point.
+Usually undesirable, as it will execute the statement that
+matches...then also any code included under the default if
+applied.
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //4.3 Logical operators
 
-var a1 = "monkey";
-var a2 = "bear";
-var a3 = "tiger";
+// var a1 = "monkey";
+// var a2 = "bear";
+// var a3 = "tiger";
 
 // if (a1 == "monkey" && a2 == "bear")
 // {
@@ -17,7 +120,7 @@ var a3 = "tiger";
 
 // console.log(a1 == a1 && a1 == a2);
 
-console.log(a1 != a2 && a2 != a3);
+// console.log(a1 != a2 && a2 != a3);
 
 
 
