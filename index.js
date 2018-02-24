@@ -1,3 +1,49 @@
+// 5.1 Loops- sequential
+
+
+// for (i=0; i<10; i++)
+// {
+//     console.log( .012 + Math.ceil( (Math.random()) )+ " blurp");
+// }
+
+
+// for (i=0; i<21; i++)
+// {
+//     console.log(i);
+// }
+
+// var pageNames = ["home", "about", "contact", "news", "blog"];
+
+
+// for (i=0; i < pageNames.length; i++)
+// {
+//     if (document.title == pageNames[i])
+//     {
+//         console.log("Okie dokie.");
+//     }
+
+//     else
+//     {
+//         console.log("nopes");
+//     };
+
+// }; 
+
+
+// var x = [0, 1, 2, 3, 4, 5, 6 ];
+
+// for (i=0; i<x.length; i++)
+// {
+//     if (x[i] == 6)
+//     {
+//         console.log( x[i] + i);
+//     }
+// };
+
+
+
+
+
 
 
 
