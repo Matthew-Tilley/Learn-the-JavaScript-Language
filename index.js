@@ -1,6 +1,50 @@
 
+// Section 3.5 Manipulating arrays 
+
+/* var counties = 
+[
+"Saint Louis County", "Saint Louis City", "Saint Charles County", "Franklin County"
+
+]; */
+
+// counties.shift();
+// console.log(counties);
+// counties.unshift("Saint Louis County");
+
+// console.log(counties);
+
+/* VERY COMFORTABLE WITH PUSH AND POP FOR WORKING 
+WITH FRONT OF ARRAYS 
+NOW JUST NEED TO GET USED TO USING SHIFT AND 
+UNSHIFT FOR THE FRONT OF ARRAYS  */
+
+/* delete counties[2];
+
+counties[2] = "durpeoflopzop";
+
+console.log(counties);
 
 
+counties.splice[2];
+
+console.log(counties);
+
+counties.unshift("LKJASD");
+
+console.log(counties);
+
+counties.shift();
+
+console.log(counties);
+
+counties.unshift();
+
+console.log(counties);
+
+unshift() + ADDS to the front of array 
+shift() - REMOVES from the front of array 
+splice[x]  PLUCKS from the array PER INDEX SPECIFIED
+ */
 
 
 
