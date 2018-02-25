@@ -1,3 +1,34 @@
+// 5.2 For loops - enumerative
+
+/* var pageNames = ["home", "about", "contact", "news", "blog"];
+
+for (p in pageNames)
+{
+    console.log(p + " is " + pageNames[p] + " BLURP");
+}; */
+
+/*  THIS METHOD IS ***NOT RECOMMENDED*** FOR USE WITH ARRAYS!!!
+    THE REASON BEING...THERE IS NO ASSURANCE IT WILL RETURN THE 
+    ITEMS IN ORDER!!!  GENERALLY SPEAKING, WHEN THINGS ARE PLACED
+    INTO AN ARRAY...THEIR ORDER IS OF SOME IMPORTANCE!!!
+
+    ALSO WORKS WITH OBJECTS, BUT IT IS SUGGESTED YOU PUT IN SOMETHING
+    LIKE: 
+    
+    for (p in pages)
+    if (example.hasOwnProperty(p))       ****THIS LINE IS THE IMPORTANT PART****
+    {
+        console.log(p + " is " + pages[p] );
+    };
+*/
+
+
+
+
+
+
+
+
 // 5.1 Loops- sequential
 
 
