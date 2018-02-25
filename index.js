@@ -1,3 +1,59 @@
+// 5.3 While loops
+
+// var i = 0;
+// while (i < 10)
+// {
+//     console.log(i + "... " + "This will go until we hit 10");
+//     i++;
+// };
+
+/* USE THIS (WHILE LOOP) WHEN YOU DON'T KNOW THE EXACT ENDPOINT.  
+   IT WILL JUST KEEP GOING UNTIL ALL THE VARIABLES YOU'RE ITERATING
+   OVER ARE EXHAUSTED.  */
+
+    // var myArray = [false, true, true, true, true, true];
+
+    // var myItem = null;
+    // while (myItem !== false)
+    // {
+    //     console.log("My array has " + myArray.length + " items now.");
+    //     myItem = myArray.pop();
+    // }
+
+
+/* ONE POTENTIAL DOWNSIDE TO WHILE LOOPS - IT IS EXCEEDINGLY EASY TO 
+CREATE AN INFINITE LOOP!!!  MOST CONSIDER USING A 'BREAK' STATEMENT 
+SOMEWHERE WITHIN THE BLOCK TO PREVENT THIS!!!
+
+ALSO NEED TO BE AWARE THAT IF THE CONDITION YOU ARE TESTING FOR IS 
+ALREADY SATISFIED (TESTING FOR false AND IT IS ALREADY false) THE CODE
+WILL NOT EXECUTE.  CONSIDER USING A "DO WHILE LOOP" INSTEAD IF YOU NEED
+IT TO RUN ***AT LEAST ONCE*** FOR SOME REASON.
+*/
+
+
+// var myArray = [false, true, true, true, true, true];
+// var myItem = false;
+// do
+// {
+//     console.log("myArray has " + myArray.length + " items now.");
+//     myItem = myArray.pop();
+
+// }   while (myItem !== false);
+
+
+// var result;
+
+// for (i=5; i>0; i--)
+// {
+//     result = result + i;
+//     console.log(result);
+// }
+/* THIS IS FROM THE QUIZ - I DON'T GET IT. */
+
+
+
+
 // 5.2 For loops - enumerative
 
 /* var pageNames = ["home", "about", "contact", "news", "blog"];
