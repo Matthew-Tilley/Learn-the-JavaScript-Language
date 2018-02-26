@@ -49,6 +49,218 @@
 // console.log( isOdd(47) );
 
 
+/* var info = prompt("Enter a number.");
+var type = prompt("Enter thing.");
+
+
+function test(number, type)
+{
+    return console.log(number + " is a " + type);
+};
+
+
+test(info, type);
+ */
+
+
+
+
+/* var a = prompt("Enter a number.");
+
+
+function tryz(x)
+{
+    console.log(x);
+};
+
+tryz(a); */
+
+
+// var info = prompt("Enter a number");
+
+
+// function check(number)
+// {
+//     if ( number == "number" && number % 2  == 0)
+//     {
+//         return console.log("Even.");
+//     }
+
+//     else
+//     {
+//         return console.log("Odd.");
+//     };
+
+// };
+
+
+// check(info);
+
+
+
+// console.log(typeof(true));
+
+
+/* function userInput()
+{
+    var userEntry = prompt("Enter a number.");
+    
+    return TypeCheck(userEntry);
+};
+
+
+function TypeCheck(userEntry)
+{
+    if ( typeof(userEntry) == 'number')
+    {
+        statusCheck();
+    }
+};
+
+
+
+function statusCheck(userEntry)
+{
+    if ( userEntry % 2 == 0 )
+    {
+        return console.log("Your number is even.");
+    }
+
+    else
+    {
+        return console.log("Your number is odd.");
+    };
+
+};
+ */
+
+// userInput();
+
+
+/* var x = document.getElementById("FLURP");
+
+var q = console.log(x); */
+
+/* function whatever()
+{
+    var x = document.getElementById("FLURP");
+
+    return x.innerHTML = "BLAHBLAH";
+};
+
+
+whatever(); */
+
+
+// function flonk()
+// {
+//     var a = prompt( "Enter a number" );
+
+//     // return blip(q + " howdy");
+//     return blip(a);
+    
+// };
+
+
+// flonk();
+
+
+// function blip(param)
+// {
+//     // var v = console.log(param + " HOWDY");
+//     console.log("Hello there, your number is: " + param);
+//     var v = param;
+//     return spork(v);
+// };
+
+
+// function spork(something)
+// {
+//     alert("This shizzle be the padizzle " + something * 36 );
+// };
+
+
+// function hereGoes()
+// {
+//     var z = parseInt(prompt("Please enter a number: "));
+    
+//     if ( typeof(z) === "number" )
+//     {
+//         return output(z);
+//     }
+
+//     else ( typeof(z) !== "number")
+//     {
+//         console.log("Dude, that ain't a number...give it another whirl.");
+//         return hereGoes(); 
+//     };
+
+
+// };
+
+
+
+
+// function output( paramo )
+// {
+//     console.log("Looks like it works...your number is: " + paramo );
+// };
+
+
+
+// hereGoes();
+
+
+// function hello()
+// {
+//     var a = prompt("Enter a whole number");
+
+//     if (parseInt(a).isInteger === true)
+//     {
+//         alert("IS A NUMBER");
+//     }
+
+//     else
+//     {
+//         alert("IS NOT A NUMBER");
+//     };
+
+// };
+
+
+// hello();
+
+
+// function intro()
+// {
+//     var a = prompt("Enter number");
+//     return firstPass(a);
+// };
+
+
+// intro();
+
+
+// function firstPass( initialVal )
+// {
+//     return secondPass( parseInt(initialVal) + 1);
+
+// };
+
+
+
+// function secondPass( secondVal )
+// {
+//     return thirdPass( parseInt(secondVal) + 1);
+// };
+
+
+// function thirdPass (thirdVal)
+// {
+//     console.log("Your number is " + thirdVal);
+
+// };
+
 
 
 
