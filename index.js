@@ -1,3 +1,58 @@
+// 6.1 Basic functions
+
+// var noises = ["Arf", "Woof", "Meyow", "Moo"];
+
+// function speak()
+// {
+//     for (i=0; i<noises.length; i++)
+//     {
+//         console.log(noises[i]);
+//     };
+// };
+
+// speak();
+
+
+
+// function fuddify(speech)
+// {
+//     if (typeof speech !== 'string')
+//     {
+//         return "Nice twy, wabbit!";
+//     };
+
+//     speech = speech.replace(/r/g, 'w');
+//     speech = speech.replace(/R/g, "W");
+//     return speech;
+
+// };
+
+
+// console.log(fuddify("RRRRRrrrrLKAJSDKLJASDlaksjlkjasdq"));
+
+
+// function isOdd(num)
+// {
+//     if ( num % 2 == 0 )
+//     {
+//         return false;
+//     }
+
+
+//     else
+//     {
+//         return true;
+//     };
+// };
+
+
+// console.log( isOdd(47) );
+
+
+
+
+
+
 // 5.3 While loops
 
 // var i = 0;
@@ -49,7 +104,49 @@ IT TO RUN ***AT LEAST ONCE*** FOR SOME REASON.
 //     result = result + i;
 //     console.log(result);
 // }
-/* THIS IS FROM THE QUIZ - I DON'T GET IT. */
+/* THIS IS FROM THE QUIZ - I DON'T GET IT.  SEE BELOW*/
+
+
+
+/* THIS PORTION IS USING STUFF FROM "CODING WITH JAVASCRIPT - 2015" */
+
+// P. 64
+
+// var x = [34, 62, 75, 45, 88, 35, 63];
+// var y = [56, 77, 22, 18, 26, 39, 12];
+
+// console.log(x.prototype);
+//console.log(x.constructor());
+// console.log(x.length);
+
+// var q = x.concat(y);
+// console.log(q + " " + q.length);
+
+// console.log(x.indexOf(63));
+
+
+
+// P.86
+
+// for (x=1; x<10; x++)
+// {
+//     console.log(x);
+// };
+
+
+// for (i=0; i<x.length; i++)
+// {
+//     console.log(x[i] + " " + i);
+// };
+
+    
+
+ 
+
+
+
+
+
 
 
 
