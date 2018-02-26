@@ -1,3 +1,36 @@
+// 6.3 More on arguments
+
+/* function speakSomething(what, howMany )
+{
+
+    for (i=0; i<howMany.length; i++)
+    {
+        console.log(what + " " + howMany(i));
+    };
+
+};
+
+speakSomething( "Hey, hey!" , 5 );
+ */
+
+
+//  function speakSomething(what, howMany)
+//  {
+//     var what = (typeof what !== 'undefined') ? howMany : 10;
+//     var howMany = (typeof howMany !== 'undefined') ? howMany : 10;
+
+//     for (i=0; i<howMany; i+=1)
+//     {
+//         console.log(what + " (" + i + ") ");
+//     }
+
+//  }
+
+
+
+
+
+
 // 6.1 Basic functions
 
 // var noises = ["Arf", "Woof", "Meyow", "Moo"];
